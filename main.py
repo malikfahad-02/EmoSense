@@ -29,9 +29,7 @@ class SentimentAnalyzer:
         return label, score
 
 def main():
-    print("========================================")
-    print("   EmoSense: AI Sentiment Analyzer      ")
-    print("========================================")
+    print("   EmoSense: AI Sentiment Analyzer      \n")
     
     analyzer = SentimentAnalyzer()
 

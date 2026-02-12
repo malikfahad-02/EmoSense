@@ -11,4 +11,4 @@ A simple yet powerful command-line interface (CLI) tool that uses the **DistilBE
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/EmoSense.git](https://github.com/YOUR_USERNAME/EmoSense.git)
+   git clone [https://github.com/malikfahad-02/EmoSense.git](https://github.com/malikfahad-02/EmoSense.git)
